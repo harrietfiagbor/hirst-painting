@@ -1,3 +1,1 @@
-"# Hirstpainting" 
-"# Hirstpainting" 
-"# hirst-repository" 
+# Damien Hirst painting #
